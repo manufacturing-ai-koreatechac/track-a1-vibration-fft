@@ -178,6 +178,14 @@ plt.show()
 
 ---
 
+## 관련 공개 데이터셋
+
+| # | 데이터셋 | 설명 | 규모 | 링크 |
+|:-:|---------|------|:----:|------|
+| 1 | **CWRU Bearing Dataset** | Case Western Reserve University 제공 베어링 진동 데이터. 내륜·외륜·볼 결함 3종 + 정상. 진동 FFT 분야 표준 벤치마크. | 200MB+ | [CWRU](https://engineering.case.edu/bearingdatacenter) |
+| 2 | **MFPT Bearing Vibration Data** | Machinery Failure Prevention Technology에서 제공. 일반 부하·가변 부하 조건의 베어링 고장 데이터. BPFO/BPFI 분석 실습에 최적. | 25개 파일 | [MFPT](https://www.mfpt.org/fault-data-sets/) |
+| 3 | **IMS Bearing Dataset (NASA)** | University of Cincinnati + NASA 협력 수집. 베어링 4개를 고장까지 연속 측정. 수명 전 구간 데이터로 Health Index 연구에 활용. | 4GB | [NASA Prognostics](https://data.nasa.gov/download/brfb-gzcv/application%2Fzip) |
+
 ## 📚 참고 자료
 
 ### 이론
